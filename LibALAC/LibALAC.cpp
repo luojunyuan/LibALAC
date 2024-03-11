@@ -6,6 +6,7 @@
 #include "ALACDecoder.h"
 #include "ALACBitUtilities.h"
 #include "EndianPortable.h"
+#include <stdlib.h>
 
 typedef struct EncoderInfo
 {
